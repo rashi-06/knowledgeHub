@@ -1,7 +1,8 @@
 # knowledgeHub
 
-A blogging website build using Reactjs and Sanity.io 
-Used Tailwindcss
+A blogging website build using Reactjs for the frontend and Sanity.io as the headless cms. 
+Used Tailwindcss as css framework 
+
 
 The site is deployed on Netlify 
 
