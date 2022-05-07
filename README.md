@@ -8,4 +8,4 @@ Used Tailwindcss as css framework
 This blogging website is based on JAM stack.
 The site is deployed on Netlify 
 
-Link to the webiste -->   https://knowledge-hub-khub.netlify.app/ 
+Link to the webiste -->   https://khub-knowledge-hub.netlify.app/
